@@ -24,7 +24,7 @@ load_dotenv()
 
 # ── tuneable constants ────────────────────────────────────────────────────────
 SIMILARITY_THRESHOLD = 0.85
-RAG_WEAK_THRESHOLD   = 0.40
+RAG_WEAK_THRESHOLD   = 0.75
 CLUSTER_CSV_PATH     = "cluster.csv"
 
 HEALTH_DOMAINS = [
